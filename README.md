@@ -5,9 +5,8 @@
 ## 🛠️ 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![rust](https://img.shields.io/badge/-Rust-1C384A?logo=rust&logoColor=white)
+![svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 
 ## 📊 GitHub统计
 
@@ -20,7 +19,10 @@
 ## 📫 联系我
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'>](https://linkedin.com/in/panzhifu)
-[<img src='https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white'>](mailto:panzhifu@example.com)
+[<img src='https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white'>](mailto:noke601508@outlook.com)
+[<img src='https://img.shields.io/badge/QQ-12B7F5?logo=tencentqq&logoColor=white'>](https://qm.qq.com/cgi-bin/qm/qr?k=2424718297&jump_from=webapi)
+
+
 
 ---
 
